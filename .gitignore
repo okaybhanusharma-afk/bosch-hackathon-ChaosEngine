@@ -1,0 +1,7 @@
+venv/
+.env
+.env.local
+*.key
+microservices-demo/
+__pycache__/
+*.pyc
